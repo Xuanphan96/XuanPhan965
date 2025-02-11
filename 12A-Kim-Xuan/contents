@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2 style="color: blueviolet; backgroud-color: tomato; padding: 0.25cm; "> Thời Khóa Biểu </h2>
+ </style>
+<head>
+  <body>
+<table border="1" width="50%">
+<tr>
+<th> THỨ HAI </th> 
+  <th> THỨ BA</th>
+<th> THỨ TƯ </th>
+<th> THỨ NĂM </th>
+<th> THỨ SÁU </th>
+
+<tr>
+<td> Toán Thực Tế </td>
+<td> Tiếng Anh </td>
+<td> Đọc sách </td>
+<td> Nghe nhạc </td>
+<td> Xem phim </td>
+<tr>
+  </table>
+</body>
+<html>
