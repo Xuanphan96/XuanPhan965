@@ -7,7 +7,11 @@
 <form>
 <ol>
 <li> <b> Thông tin </b></li>
-
+<label> Tên đăng nhập: </label>
+      <input type="text" id="username" name="username">
+      <label> Mật khẩu: </label> 
+      <input type="password" id="password" name="password">
+      <button type="submit" on click=login() > Đăng nhập </button>
 <li> <b> Đóng góp </b></li>
 </ol>
 </form>
